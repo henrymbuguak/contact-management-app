@@ -1,0 +1,25 @@
+******************************************************
+Author: Kiarie Henry Mbugua                          *
+Email : henrymbuguak@gmail.com                       *
+Date  : 7th, April, 2016                             *
+Title : A Simple Contact app for business            *
+******************************************************
+                                                     *
+This is a simple contact form that seek to maintain  *
+a list of organization and a list of people who      *
+work in those organization.                          *
+                                                     *
+It is possible to create a more complex data         *
+representation but in this is just a simple app.     *
+A good example is allow multiple user for the        *
+system, allow the sample person to work for more     *
+than one company and keep the track for all changes  *
+in time.                                             *
+                                                     *
+You can improve on this app                          *
+                                                     *
+******************************************************
+                                                     *
+Developed with web2py Framework.                     *
+                                                     *
+******************************************************

@@ -1,0 +1,14 @@
+{{extend 'layout.html'}}
+<h2>Register for contact {{=contact.name}}</h2>
+<table>
+{{for register in registers:}}
+<tr>
+<td>{{=register.posted_on}}</td>
+<td>{{=MARKMIN(register.body)}}</td>
+</tr>
+{{pass}}
+<tr>
+<td></td>
+<td>{{=form}}</td>
+</tr>
+</table>
